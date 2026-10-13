@@ -5,6 +5,9 @@ venv/
 .history/
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 __pycache__/
 *.py[cod]
 .venv/
+=======
+>>>>>>> origin/main
